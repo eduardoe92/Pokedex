@@ -13,7 +13,6 @@ function DetallePokemon({ mostrar, pokemon, cerrar }) {
                 </div>
                 <div className="data">
                     <h2 className="titulo">{pokemon.nombre} ({pokemon.id})</h2>
-
                     <h3 className="titulo-seccion">Habilidades</h3>
                     {pokemon.abilities?.map(ability => <span className='tag'>{ability}</span>)}
                     
