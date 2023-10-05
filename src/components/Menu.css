@@ -1,6 +1,6 @@
 .card{
-    background-color: #4485;
-    color: #fff;
+    background-color: var(--back);
+    color: var(--text);
 }
 .card-text{
     text-align: justify;
