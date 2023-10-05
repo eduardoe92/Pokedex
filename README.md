@@ -24,7 +24,7 @@ Este proyecto fue desarrollado utilizando Visual Studio Code (VSCode).
 
 ## Cómo Usar
 
-1. Visita el sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app/).
+1. Visita el sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app/)
 
 2. Navega por las generaciones de Pokémon o busca a tu Pokémon favorito.
 
