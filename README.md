@@ -2,7 +2,7 @@
 
 Este es un proyecto de Pokedex creado utilizando React y se encuentra implementado en Vercel.
 
-Puedes acceder al sitio web aquí: [Pokedex en Vercel](https://pokedex-gpymiced6-eduardoe92.vercel.app/pokedex)
+Puedes acceder al sitio web aquí: [Pokedex en Vercel](https://pokedex-gpymiced6-eduardoe92.vercel.app/)
 
 ## Tecnologías Utilizadas
 
