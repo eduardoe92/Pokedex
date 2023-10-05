@@ -1,0 +1,91 @@
+nav {
+    background-color: #0000ff;
+    opacity: 1;
+    background-attachment: fixed;
+    background-image: radial-gradient(circle at center center, #000000, #0000ff), repeating-radial-gradient(circle at center center, #000000, #000000, 11px, transparent 22px, transparent 11px);
+    background-blend-mode: multiply;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 4px 4px 8px #00000020;
+}
+
+.switch {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    fill: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.switch > svg {
+    height: 1.5rem;
+    width: auto;
+}
+
+.switch > label {
+    background-color: #7e7e7e;
+    width: 4rem;
+    height: 1.5rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 2.2px;
+}
+
+.switch > label > span {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 1.5rem;
+    background-color: white;
+    transition: .3s;
+}
+
+.check-switch:checked + .slider{
+    transform: translateX(2.5rem);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .Pokeball {
+        animation: App-logo-spin infinite 15s linear;
+    }
+}
+
+@keyframes Pokeball-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .switch>svg {
+        height: 0.9rem;
+    }
+
+    .switch>label {
+        width: 3rem;
+    }
+
+    .switch>label>span {
+        width: 1.1rem;
+        height: 1.1rem;
+    }
+    .check-switch:checked+.slider {
+        transform: translateX(1.6rem);
+    } 
+    .switch {
+        margin-left: 0;
+        margin-right: -25px;
+    }
+    a {
+        margin-left: 10px;
+    }
+}

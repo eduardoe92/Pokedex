@@ -1,0 +1,21 @@
+.cargando-container {
+    grid-column: 1 / 6;
+    margin: 0 auto;
+}
+
+.pokeball-loading {
+    height: 2rem;
+    width: 2rem;
+    animation: spiner 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spiner {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

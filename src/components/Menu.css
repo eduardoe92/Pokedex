@@ -1,0 +1,38 @@
+.card{
+    background-color: #4485;
+    color: #fff;
+}
+.card-text{
+    text-align: justify;
+    font-size: 18px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.carousel-container{
+    margin-top: -31px;
+    margin-bottom: -25px;
+}
+.carousel-title {
+    font-family: 'Noto Serif JP', serif;
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.carousel-p {
+    margin-top: 25px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .h3 {
+        font-size: 35px;
+    }
+    .carousel-container{
+        margin-top: -60px;
+        margin-bottom: -25px;
+    }
+}
+
