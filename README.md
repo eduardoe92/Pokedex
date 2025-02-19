@@ -1,13 +1,22 @@
----
 # Pokedex
 
 Este es un proyecto de Pokedex creado utilizando React, mediante la API de Pokemon y se encuentra implementado en Vercel.
+
+---
+
+## 🌐 Despliegue
+ 
+- Puedes verlo en: <a href="https://pokedex-eduardoe92.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
+
+---
 
 ## Tecnologías Utilizadas
 
 - **React:** He utilizado React para desarrollar la interfaz de usuario de la Pokedex.
 
 - **Vercel:** El proyecto se ha implementado en Vercel, una plataforma de alojamiento y despliegue.
+
+---
 
 ## Características
 
@@ -17,9 +26,11 @@ Este es un proyecto de Pokedex creado utilizando React, mediante la API de Pokem
 - Busca Pokémon específicos por nombre o número de Pokédex.
 - Interfaz de usuario amigable e intuitiva.
 
+---
+
 ## Cómo Usar
 
-1. Visita el sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app/)
+1. Visita el sitio web.
 
 2. Navega por las generaciones de Pokémon o busca a tu Pokémon favorito.
 
@@ -31,10 +42,20 @@ Este es un proyecto de Pokedex creado utilizando React, mediante la API de Pokem
 
 This is a Pokedex project created using React, utilizing the Pokemon API, and deployed on Vercel.
 
+---
+
+## 🌐 Deployment
+ 
+- You can see it in: <a href="https://pokedex-eduardoe92.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
+
+---
+
 ## Technologies Used
 
 - **React:** I used React to develop the user interface of the Pokedex.
 - **Vercel:** The project has been deployed on Vercel, a hosting and deployment platform.
+
+---
 
 ## Features
 
@@ -44,9 +65,12 @@ This is a Pokedex project created using React, utilizing the Pokemon API, and de
 - Search for specific Pokémon by name or Pokédex number.
 - User-friendly and intuitive interface.
 
+---
+
 ## How to Use
 
-1. Visit the website: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app/)
+1. Visit the website.
 2. Browse through Pokémon generations or search for your favorite Pokémon.
 3. Click on a Pokémon to view more details.
+
 ---
